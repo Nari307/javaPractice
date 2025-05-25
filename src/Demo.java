@@ -1,7 +1,29 @@
-
+import java.util.Arrays;
 
 public class Demo {
     public  static  void  main(String[] args){
+
+        //sort an array
+//        int[] arr={23,345,32,54,53};
+//        int[] sort={};
+        //logic function
+//        for (int i = 0; i < arr.length - 1; i++) {
+//            for (int j = 0; j < arr.length - i - 1; j++) {
+//                if (arr[j] > arr[j + 1]) {
+//                    // Swap arr[j] and arr[j + 1]
+//                    int temp = arr[j];
+//                    arr[j] = arr[j + 1];
+//                    arr[j + 1] = temp;
+//                }
+//            }
+//        }
+//        System.out.print(Arrays.toString(arr));
+        //inbuilt methods
+//        sort=Arrays.stream(arr).sorted().toArray();
+//        System.out.print(Arrays.toString(sort));
+//       Arrays.sort(arr);
+//       System.out.print(Arrays.toString(arr));
+
         //Count vowels and Consonants
 //        String str="Automation";
 //        int vowels=0,consonants=0;
