@@ -2,6 +2,17 @@
 
 public class Demo {
     public  static  void  main(String[] args){
+        //prime number check
+//        int num=56,count=0;
+//        for(int i=2;i<=num/2;i++){
+//            if(num%i==0){
+//                count++;
+//                break;
+//            }
+//        }
+//        if(count>0){
+//            System.out.print("not a prime number");
+//        }else System.out.print("prime number");
         //factorial of a number
 //        int num=5;
 //        int sum= num;
