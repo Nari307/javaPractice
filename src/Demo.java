@@ -2,6 +2,13 @@
 
 public class Demo {
     public  static  void  main(String[] args){
+        //factorial of a number
+//        int num=5;
+//        int sum= num;
+//        for(int i=num-1;i>0;i--){
+//            sum=sum*i;
+//        }
+//        System.out.print(sum);
         //fibonacci series
 //        int n=10,num1=0,num2=1;
 //        int sum=0;
