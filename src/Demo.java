@@ -2,6 +2,15 @@
 
 public class Demo {
     public  static  void  main(String[] args){
+        //Count vowels and Consonants
+//        String str="Automation";
+//        int vowels=0,consonants=0;
+//        for(int i=0;i<str.length();i++){
+//            if("aeiouAEIOU".indexOf(str.charAt(i)) !=-1){
+//                vowels++;
+//            }else consonants++;
+//        }
+//        System.out.print("Vowels "+vowels +", Consonants "+consonants);
         //prime number check
 //        int num=56,count=0;
 //        for(int i=2;i<=num/2;i++){
