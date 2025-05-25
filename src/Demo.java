@@ -1,10 +1,17 @@
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
+
 
 public class Demo {
     public  static  void  main(String[] args){
-
+        //fibonacci series
+//        int n=10,num1=0,num2=1;
+//        int sum=0;
+//        System.out.print("Febonacci series "+num1+", "+num2);
+//        for (int i=n;i>=0;i--){
+//            sum=num1+num2;
+//            System.out.print(", "+sum);
+//            num1=num2;
+//            num2=sum;
+//        }
         //palindrome
 //        String str="madam";
         //login function
@@ -27,7 +34,7 @@ public class Demo {
         //Reverse a String
 //        String str="Narayana";
 //        String rev="";
-       //logic function
+        //logic function
 //        for(int i=str.length()-1; i>=0;i--){
 //            rev=rev+str.charAt(i);
 //        }
