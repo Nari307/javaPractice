@@ -2,6 +2,15 @@ import java.util.Arrays;
 
 public class Demo {
     public  static  void  main(String[] args){
+       //find largest number in an array
+//        int[] arr={2,34,26,32,40};
+//        int j=arr[0];
+//        for(int i=1;i<arr.length;i++){
+//            if(j<arr[i]){
+//                j=arr[i];
+//            }
+//        }
+//        System.out.print(j);
 
         //merge two arrays
 //        int[] arr1={1,3,5};
